@@ -1,0 +1,4 @@
+core_cm4.h:1939:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+DoorSensor.c:46:8:DoorSensor_Init	16	static,ignoring_inline_asm
+DoorSensor.c:74:6:DoorSensor_Tasks	16	static
+DoorSensor.c:117:12:ProcessPeopleCountingData	32	static
